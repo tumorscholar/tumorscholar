@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raju Kumar
 - 👀 I’m interested in omics data analysis
 - 🌱 I’m currently working on single cell CITEseq and matched TCR/BCRseq data analysis
-- 📫 Reach me at @tumorscholar either on X or LinkedIn
+- 📫 Reach me at @tumorscholar on either Bluesky or LinkedIn
 - ⚡ Fun fact: I am a wet lab biologist turned computational biologist
 
 <!---
