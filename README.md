@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raju Kumar
 - 👀 I’m interested in omics data analysis
-- 🌱 I’m investigating the role of T cells in the liver, adipose tissues, and blood of patients with early-stage Metabolic Dysfunction-Associated Steatohepatitis (MASH) associated fibrosis
+- 🌱 I’m investigating role of T cells in early-stage liver and adipose tissue fibrosis using single-cell multiomics
 - 📫 Reach me at @tumorscholar on either LinkedIn or Bluesky 
 - ⚡ Fun fact: I am a wet lab biologist turned computational biologist
 
